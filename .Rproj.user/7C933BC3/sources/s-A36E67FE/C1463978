@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524904481545.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C1463978",
+    "lastKnownWriteTime" : 244813135929,
+    "last_content_update" : 1524904481545,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8D0636BF",
+        "caption" : "migration",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=migration&cache_key=8D0636BF",
+        "displayedObservations" : "31",
+        "environment" : "",
+        "object" : "migration",
+        "preview" : "0",
+        "totalObservations" : "31",
+        "variables" : "37"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

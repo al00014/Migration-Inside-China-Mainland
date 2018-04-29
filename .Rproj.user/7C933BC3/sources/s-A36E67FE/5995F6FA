@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524934698055.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5995F6FA",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1524934698055,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8E55A8BE",
+        "caption" : "migration_mainland_reverse",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=migration_mainland_reverse&cache_key=8E55A8BE",
+        "displayedObservations" : "31",
+        "environment" : "",
+        "object" : "migration_mainland_reverse",
+        "preview" : "0",
+        "totalObservations" : "31",
+        "variables" : "36"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524904436445.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3333C7BC",
+    "lastKnownWriteTime" : 1525017789,
+    "last_content_update" : 1525017886647,
+    "path" : "~/OneDrive/projects/migration/eda.R",
+    "project_path" : "eda.R",
+    "properties" : {
+        "cursorPosition" : "33,0",
+        "scrollLine" : "28",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
